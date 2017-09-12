@@ -1,3 +1,8 @@
+# Proof helper library for interacting with truffle contract objects. 
+Useful for scripts and tests within the truffle environment
+
+# API Reference
+
 ## Modules
 
 <dl>
